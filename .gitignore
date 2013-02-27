@@ -1,6 +1,7 @@
 #*
 \#*\#
 *~
+temp/
 TAGS
 db/schema.rb
 log/

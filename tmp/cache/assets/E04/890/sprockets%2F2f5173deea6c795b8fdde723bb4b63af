@@ -1,0 +1,56 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1361936213.997899:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%7fa595f95f98364a85deec0750dc129fI"logical_path;
+FI"application.js;
+TI"pathname;
+FI"0$root/app/assets/javascripts/application.js;
+TI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2013-02-16T16:03:08+08:00;
+FI"	body;
+FI"”// This is a manifest file that'll be compiled into including all the files listed below.
+// Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
+// be included in the compiled file accessible from http://example.com/assets/application.js
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// the compiled file.
+//
+;
+;
+FI"asset_paths;
+F[I"k/home/shuke0327/.rvm/gems/ruby-1.9.3-p374/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
+TI"o/home/shuke0327/.rvm/gems/ruby-1.9.3-p374/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+TI"0$root/app/assets/javascripts/application.js;
+TI"dependency_paths;
+F[	{I"	path;
+FI"0$root/app/assets/javascripts/application.js;
+TI"
+mtime;
+FIu:	TimeF€Ä`Ž
+:@_zoneI"CST;
+T:nano_numiv:nano_deni:submicro"c:offseti€pI"hexdigest;
+F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+FI"!$root/app/assets/javascripts;
+TI"
+mtime;
+FIu;F€Ä`Ž
+;I"CST;
+T;iv;i;"c;i€pI"hexdigest;
+F"%d4f88971c1988e00732efc3b47e84f9d{I"	path;
+FI"k/home/shuke0327/.rvm/gems/ruby-1.9.3-p374/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
+TI"
+mtime;
+FIu;­C€5q(V
+;I"CST;
+T;i?;i;"WP;i€pI"hexdigest;
+F"%683679b346b30943f8589b640966202a{I"	path;
+FI"o/home/shuke0327/.rvm/gems/ruby-1.9.3-p374/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+TI"
+mtime;
+FIu;­C€5q(V
+;I"CST;
+T;i?;i;"WP;i€pI"hexdigest;
+F"%2caafa0c2617f9985c1a0b07ebaefadfI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
