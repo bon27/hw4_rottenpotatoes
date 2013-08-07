@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    ZenTest (4.8.3)
     actionmailer (3.1.0)
       actionpack (= 3.1.0)
       mail (~> 2.3.0)
@@ -136,6 +137,7 @@ GEM
       activesupport (>= 3.0)
       railties (>= 3.0)
       rspec (~> 2.8.0)
+    ruby-prof (0.13.0)
     rubyzip (0.9.6.1)
     sass (3.1.15)
     sass-rails (3.1.5)
@@ -173,6 +175,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ZenTest
   capybara
   coffee-rails (~> 3.1.0)
   cucumber-rails
@@ -182,8 +185,10 @@ DEPENDENCIES
   haml
   jquery-rails
   launchy
+  rack
   rails (= 3.1.0)
   rspec-rails
+  ruby-prof
   sass-rails (~> 3.1.0)
   simplecov
   sqlite3
